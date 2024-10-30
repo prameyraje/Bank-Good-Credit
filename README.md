@@ -1,6 +1,6 @@
 # Bank-Good-Credit
 
-Business Case:
+Business Case :
 
 Bank GoodCredit wants to predict cred score for current credit card
 customers. The cred score will denote a customer’s credit worthiness
@@ -25,14 +25,14 @@ Current customer applications with demographic data
 Note that demographics features are renamed as features and
 obscured in accordance with privacy policies.
 
-PROJECT GOAL:
+PROJECT GOAL :
 Build a model with the data provided
 1. Data exploration insights – what did you find and what decision
 did you take?
 2. Feature matrix - List of features selected with gain
 3. Model evaluation - Gini and rank ordering
 
-Data Set Fields:
+Data Set Fields :
 Host: 18.136.157.135
 Port: 3306
 Username : dm_team1
