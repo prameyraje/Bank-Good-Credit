@@ -33,8 +33,13 @@ did you take?
 3. Model evaluation - Gini and rank ordering
 
 Data Set Fields :
+
 Host: 18.136.157.135
+
 Port: 3306
+
 Username : dm_team1
+
 Password: DM!$Team&279@20!
+
 Database : project_banking
